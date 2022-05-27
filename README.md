@@ -1,2 +1,6 @@
 # Discrete-Math
-some notes for SI120
+some notes of SI120
+- [ ] Number theory
+- [ ] Combinatorics
+- [ ] Logic
+- [ ] Graph theory
