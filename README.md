@@ -8,4 +8,9 @@ some notes of SI120
 - [ ] Combinatorics
 - [ ] Logic
 - [ ] Graph theory
+
 $\{$
+
+$$
+\{ a_{x}
+$$
