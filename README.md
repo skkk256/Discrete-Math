@@ -9,8 +9,3 @@ some notes of SI120
 - [ ] Logic
 - [ ] Graph theory
 
-$\{$
-
-$$
-\{ a_{x}
-$$
