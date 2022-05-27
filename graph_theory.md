@@ -14,9 +14,9 @@ $$
 
 - $|V|$ is called the **order** of $G$
 
-- if $|V| = \infin$ or $|E| = \infin$, the graph is an **Infinite Graph**
+- if $|V| = \infty $ or $|E| = \infty $, the graph is an **Infinite Graph**
 
-  if $|V| < \infin$ or $|E| < \infin$, the graph is a **Finite Graph**
+  if $|V| < \infty $ or $|E| < \infty $, the graph is a **Finite Graph**
 
 - example
 
