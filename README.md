@@ -1,7 +1,7 @@
 # Discrete-Math
 some notes of SI120
 
-**Time: 2022 Spring**
+**Time**: 2022 Spring
 
 
 - [ ] Number theory
