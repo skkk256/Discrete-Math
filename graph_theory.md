@@ -8,6 +8,7 @@ $$
 G = (V, E)
 $$
 
+
 ​	$V$ means **vertices ( vertex )**, such as $\{ a_{1},a_{2},a_{3}...\} $
 
 ​	$E$ means **edges**, such as $\{\{a_{1}, a_{2}\},\{a_{2},a_{3}\}\}$ for undirected edges, or $\{ (a_{1},a_{2}),(a_{3},a_{4}) \}$ 	for directed edges.
